@@ -32,7 +32,7 @@ body {
   justify-content: space-between;
   width: 64%;
   align-items: center;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
 }
 
 .box1, .box2 {
@@ -131,7 +131,7 @@ body {
     border-bottom-right-radius: 0;
     padding: 0px;
     border: white solid 17px;
-    bottom: 58%;
+    bottom: 52%;
     left: 66.5%;
 }
 
