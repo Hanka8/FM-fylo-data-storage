@@ -27,9 +27,12 @@ body {
 }
 
 .container {
+  margin-top: 5%;
   display: flex;
   justify-content: space-between;
   width: 64%;
+  align-items: center;
+  margin-bottom: 10%;
 }
 
 .box1, .box2 {
@@ -128,7 +131,7 @@ body {
     border-bottom-right-radius: 0;
     padding: 0px;
     border: white solid 17px;
-    bottom: 49%;
+    bottom: 58%;
     left: 66.5%;
 }
 
